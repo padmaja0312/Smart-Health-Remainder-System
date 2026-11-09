@@ -1,0 +1,5 @@
+Patient ID: 101
+Name: Ravi
+Age: 21
+Health Issue: Fever
+----------------------------
